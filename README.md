@@ -1,4 +1,4 @@
-* I have made draw a wireframe for the imagination of the ui
+* I have made a wireframe for the imagination of the ui
 * I collected the shared styles like colors ,font sizes ,margins ,padding etc... (which supposed to be done in bigger projects with pixcel perfect UI )
 * I collected the reused components like btns and modal in one folder
 * Also the shared comonents like navbar and footer in one folder
